@@ -1,0 +1,185 @@
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\hospital_project\hospital_project\bin\Debug\hospital_project.exe.config
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\hospital_project\hospital_project\bin\Debug\hospital_project.exe
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\hospital_project\hospital_project\bin\Debug\hospital_project.pdb
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\hospital_project\hospital_project\obj\Debug\hospital_project.csproj.AssemblyReference.cache
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\hospital_project\hospital_project\obj\Debug\hospital_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\hospital_project\hospital_project\obj\Debug\hospital_project.Properties.Resources.resources
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\hospital_project\hospital_project\obj\Debug\hospital_project.csproj.GenerateResource.cache
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\hospital_project\hospital_project\obj\Debug\hospital_project.csproj.CoreCompileInputs.cache
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\hospital_project\hospital_project\obj\Debug\hospital_project.exe
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\hospital_project\hospital_project\obj\Debug\hospital_project.pdb
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\hospital_project\hospital_project\obj\Debug\hospital_project.Data.resources
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\hospital_project\hospital_project\obj\Debug\hospital_project.BMI.resources
+C:\Users\youss\Desktop\visual project\hospital_project\hospital_project\bin\Debug\hospital_project.exe.config
+C:\Users\youss\Desktop\visual project\hospital_project\hospital_project\bin\Debug\hospital_project.exe
+C:\Users\youss\Desktop\visual project\hospital_project\hospital_project\bin\Debug\hospital_project.pdb
+C:\Users\youss\Desktop\visual project\hospital_project\hospital_project\obj\Debug\hospital_project.csproj.AssemblyReference.cache
+C:\Users\youss\Desktop\visual project\hospital_project\hospital_project\obj\Debug\hospital_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\youss\Desktop\visual project\hospital_project\hospital_project\obj\Debug\hospital_project.BMI.resources
+C:\Users\youss\Desktop\visual project\hospital_project\hospital_project\obj\Debug\hospital_project.Data.resources
+C:\Users\youss\Desktop\visual project\hospital_project\hospital_project\obj\Debug\hospital_project.Properties.Resources.resources
+C:\Users\youss\Desktop\visual project\hospital_project\hospital_project\obj\Debug\hospital_project.csproj.GenerateResource.cache
+C:\Users\youss\Desktop\visual project\hospital_project\hospital_project\obj\Debug\hospital_project.csproj.CoreCompileInputs.cache
+C:\Users\youss\Desktop\visual project\hospital_project\hospital_project\obj\Debug\hospital_project.exe
+C:\Users\youss\Desktop\visual project\hospital_project\hospital_project\obj\Debug\hospital_project.pdb
+C:\Users\youss\Desktop\01\hospital_project111\hospital_project111\hospital_project\hospital_project\bin\Debug\hospital_project.exe.config
+C:\Users\youss\Desktop\01\hospital_project111\hospital_project111\hospital_project\hospital_project\bin\Debug\hospital_project.exe
+C:\Users\youss\Desktop\01\hospital_project111\hospital_project111\hospital_project\hospital_project\bin\Debug\hospital_project.pdb
+C:\Users\youss\Desktop\01\hospital_project111\hospital_project111\hospital_project\hospital_project\obj\Debug\hospital_project.csproj.AssemblyReference.cache
+C:\Users\youss\Desktop\01\hospital_project111\hospital_project111\hospital_project\hospital_project\obj\Debug\hospital_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\youss\Desktop\01\hospital_project111\hospital_project111\hospital_project\hospital_project\obj\Debug\hospital_project.BMI.resources
+C:\Users\youss\Desktop\01\hospital_project111\hospital_project111\hospital_project\hospital_project\obj\Debug\hospital_project.Data.resources
+C:\Users\youss\Desktop\01\hospital_project111\hospital_project111\hospital_project\hospital_project\obj\Debug\hospital_project.Properties.Resources.resources
+C:\Users\youss\Desktop\01\hospital_project111\hospital_project111\hospital_project\hospital_project\obj\Debug\hospital_project.csproj.GenerateResource.cache
+C:\Users\youss\Desktop\01\hospital_project111\hospital_project111\hospital_project\hospital_project\obj\Debug\hospital_project.csproj.CoreCompileInputs.cache
+C:\Users\youss\Desktop\01\hospital_project111\hospital_project111\hospital_project\hospital_project\obj\Debug\hospital_project.exe
+C:\Users\youss\Desktop\01\hospital_project111\hospital_project111\hospital_project\hospital_project\obj\Debug\hospital_project.pdb
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\assiments\hospital_project\hospital_project\bin\Debug\hospital_project.exe.config
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\assiments\hospital_project\hospital_project\bin\Debug\hospital_project.exe
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\assiments\hospital_project\hospital_project\bin\Debug\hospital_project.pdb
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\assiments\hospital_project\hospital_project\obj\Debug\hospital_project.csproj.AssemblyReference.cache
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\assiments\hospital_project\hospital_project\obj\Debug\hospital_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\assiments\hospital_project\hospital_project\obj\Debug\hospital_project.BMI.resources
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\assiments\hospital_project\hospital_project\obj\Debug\hospital_project.Data.resources
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\assiments\hospital_project\hospital_project\obj\Debug\hospital_project.Properties.Resources.resources
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\assiments\hospital_project\hospital_project\obj\Debug\hospital_project.csproj.GenerateResource.cache
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\assiments\hospital_project\hospital_project\obj\Debug\hospital_project.csproj.CoreCompileInputs.cache
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\assiments\hospital_project\hospital_project\obj\Debug\hospital_project.exe
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\assiments\hospital_project\hospital_project\obj\Debug\hospital_project.pdb
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\assiments\hospital_project\hospital_project\obj\Debug\hospital_project.data_personal.resources
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\assiments\hospital_project\hospital_project\obj\Debug\hospital_project.Record_Resulet.resources
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\assiments\hospital_project\hospital_project\obj\Debug\hospital_project.Home.resources
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\assiments\hospital_project\hospital_project\obj\Debug\hospital_project.Start.resources
+C:\Users\youss\Desktop\proje\hospital_project\hospital_project\bin\Debug\hospital_project.exe.config
+C:\Users\youss\Desktop\proje\hospital_project\hospital_project\bin\Debug\hospital_project.exe
+C:\Users\youss\Desktop\proje\hospital_project\hospital_project\bin\Debug\hospital_project.pdb
+C:\Users\youss\Desktop\proje\hospital_project\hospital_project\obj\Debug\hospital_project.csproj.AssemblyReference.cache
+C:\Users\youss\Desktop\proje\hospital_project\hospital_project\obj\Debug\hospital_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\youss\Desktop\proje\hospital_project\hospital_project\obj\Debug\hospital_project.Analystics.resources
+C:\Users\youss\Desktop\proje\hospital_project\hospital_project\obj\Debug\hospital_project.cleander.resources
+C:\Users\youss\Desktop\proje\hospital_project\hospital_project\obj\Debug\hospital_project.Home.resources
+C:\Users\youss\Desktop\proje\hospital_project\hospital_project\obj\Debug\hospital_project.BMI.resources
+C:\Users\youss\Desktop\proje\hospital_project\hospital_project\obj\Debug\hospital_project.Data.resources
+C:\Users\youss\Desktop\proje\hospital_project\hospital_project\obj\Debug\hospital_project.data_personal.resources
+C:\Users\youss\Desktop\proje\hospital_project\hospital_project\obj\Debug\hospital_project.Properties.Resources.resources
+C:\Users\youss\Desktop\proje\hospital_project\hospital_project\obj\Debug\hospital_project.Record_Resulet.resources
+C:\Users\youss\Desktop\proje\hospital_project\hospital_project\obj\Debug\hospital_project.setting.resources
+C:\Users\youss\Desktop\proje\hospital_project\hospital_project\obj\Debug\hospital_project.Start.resources
+C:\Users\youss\Desktop\proje\hospital_project\hospital_project\obj\Debug\hospital_project.csproj.GenerateResource.cache
+C:\Users\youss\Desktop\proje\hospital_project\hospital_project\obj\Debug\hospital_project.csproj.CoreCompileInputs.cache
+C:\Users\youss\Desktop\proje\hospital_project\hospital_project\obj\Debug\hospital_project.exe
+C:\Users\youss\Desktop\proje\hospital_project\hospital_project\obj\Debug\hospital_project.pdb
+C:\Users\youss\Desktop\proje\hospital_project\hospital_project\obj\Debug\hospital_project.pharmacy.resources
+C:\Users\Felopater\Downloads\New folder\hospital_project\hospital_project\bin\Debug\hospital_project.exe.config
+C:\Users\Felopater\Downloads\New folder\hospital_project\hospital_project\bin\Debug\hospital_project.exe
+C:\Users\Felopater\Downloads\New folder\hospital_project\hospital_project\bin\Debug\hospital_project.pdb
+C:\Users\Felopater\Downloads\New folder\hospital_project\hospital_project\obj\Debug\hospital_project.csproj.AssemblyReference.cache
+C:\Users\Felopater\Downloads\New folder\hospital_project\hospital_project\obj\Debug\hospital_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Felopater\Downloads\New folder\hospital_project\hospital_project\obj\Debug\hospital_project.Analystics.resources
+C:\Users\Felopater\Downloads\New folder\hospital_project\hospital_project\obj\Debug\hospital_project.BMI.resources
+C:\Users\Felopater\Downloads\New folder\hospital_project\hospital_project\obj\Debug\hospital_project.cleander.resources
+C:\Users\Felopater\Downloads\New folder\hospital_project\hospital_project\obj\Debug\hospital_project.Home.resources
+C:\Users\Felopater\Downloads\New folder\hospital_project\hospital_project\obj\Debug\hospital_project.Data.resources
+C:\Users\Felopater\Downloads\New folder\hospital_project\hospital_project\obj\Debug\hospital_project.data_personal.resources
+C:\Users\Felopater\Downloads\New folder\hospital_project\hospital_project\obj\Debug\hospital_project.pharmacy.resources
+C:\Users\Felopater\Downloads\New folder\hospital_project\hospital_project\obj\Debug\hospital_project.Properties.Resources.resources
+C:\Users\Felopater\Downloads\New folder\hospital_project\hospital_project\obj\Debug\hospital_project.Record_Resulet.resources
+C:\Users\Felopater\Downloads\New folder\hospital_project\hospital_project\obj\Debug\hospital_project.setting.resources
+C:\Users\Felopater\Downloads\New folder\hospital_project\hospital_project\obj\Debug\hospital_project.Start.resources
+C:\Users\Felopater\Downloads\New folder\hospital_project\hospital_project\obj\Debug\hospital_project.csproj.GenerateResource.cache
+C:\Users\Felopater\Downloads\New folder\hospital_project\hospital_project\obj\Debug\hospital_project.csproj.CoreCompileInputs.cache
+C:\Users\Felopater\Downloads\New folder\hospital_project\hospital_project\obj\Debug\hospital_project.exe
+C:\Users\Felopater\Downloads\New folder\hospital_project\hospital_project\obj\Debug\hospital_project.pdb
+C:\Users\youss\Desktop\maybe\hospital_project\hospital_project\hospital_project\bin\Debug\hospital_project.exe.config
+C:\Users\youss\Desktop\maybe\hospital_project\hospital_project\hospital_project\bin\Debug\hospital_project.exe
+C:\Users\youss\Desktop\maybe\hospital_project\hospital_project\hospital_project\bin\Debug\hospital_project.pdb
+C:\Users\youss\Desktop\maybe\hospital_project\hospital_project\hospital_project\obj\Debug\hospital_project.csproj.AssemblyReference.cache
+C:\Users\youss\Desktop\maybe\hospital_project\hospital_project\hospital_project\obj\Debug\hospital_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\youss\Desktop\maybe\hospital_project\hospital_project\hospital_project\obj\Debug\hospital_project.Analystics.resources
+C:\Users\youss\Desktop\maybe\hospital_project\hospital_project\hospital_project\obj\Debug\hospital_project.BMI.resources
+C:\Users\youss\Desktop\maybe\hospital_project\hospital_project\hospital_project\obj\Debug\hospital_project.cleander.resources
+C:\Users\youss\Desktop\maybe\hospital_project\hospital_project\hospital_project\obj\Debug\hospital_project.Home.resources
+C:\Users\youss\Desktop\maybe\hospital_project\hospital_project\hospital_project\obj\Debug\hospital_project.Data.resources
+C:\Users\youss\Desktop\maybe\hospital_project\hospital_project\hospital_project\obj\Debug\hospital_project.data_personal.resources
+C:\Users\youss\Desktop\maybe\hospital_project\hospital_project\hospital_project\obj\Debug\hospital_project.pharmacy.resources
+C:\Users\youss\Desktop\maybe\hospital_project\hospital_project\hospital_project\obj\Debug\hospital_project.Properties.Resources.resources
+C:\Users\youss\Desktop\maybe\hospital_project\hospital_project\hospital_project\obj\Debug\hospital_project.Record_Resulet.resources
+C:\Users\youss\Desktop\maybe\hospital_project\hospital_project\hospital_project\obj\Debug\hospital_project.setting.resources
+C:\Users\youss\Desktop\maybe\hospital_project\hospital_project\hospital_project\obj\Debug\hospital_project.Start.resources
+C:\Users\youss\Desktop\maybe\hospital_project\hospital_project\hospital_project\obj\Debug\hospital_project.csproj.GenerateResource.cache
+C:\Users\youss\Desktop\maybe\hospital_project\hospital_project\hospital_project\obj\Debug\hospital_project.csproj.CoreCompileInputs.cache
+C:\Users\youss\Desktop\maybe\hospital_project\hospital_project\hospital_project\obj\Debug\hospital_project.exe
+C:\Users\youss\Desktop\maybe\hospital_project\hospital_project\hospital_project\obj\Debug\hospital_project.pdb
+C:\Users\Felopater\Downloads\hospital_project\hospital_project\hospital_project\bin\Debug\hospital_project.exe.config
+C:\Users\Felopater\Downloads\hospital_project\hospital_project\hospital_project\bin\Debug\hospital_project.exe
+C:\Users\Felopater\Downloads\hospital_project\hospital_project\hospital_project\bin\Debug\hospital_project.pdb
+C:\Users\Felopater\Downloads\hospital_project\hospital_project\hospital_project\obj\Debug\hospital_project.csproj.AssemblyReference.cache
+C:\Users\Felopater\Downloads\hospital_project\hospital_project\hospital_project\obj\Debug\hospital_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Felopater\Downloads\hospital_project\hospital_project\hospital_project\obj\Debug\hospital_project.BMI.resources
+C:\Users\Felopater\Downloads\hospital_project\hospital_project\hospital_project\obj\Debug\hospital_project.Home.resources
+C:\Users\Felopater\Downloads\hospital_project\hospital_project\hospital_project\obj\Debug\hospital_project.Properties.Resources.resources
+C:\Users\Felopater\Downloads\hospital_project\hospital_project\hospital_project\obj\Debug\hospital_project.Start.resources
+C:\Users\Felopater\Downloads\hospital_project\hospital_project\hospital_project\obj\Debug\hospital_project.csproj.GenerateResource.cache
+C:\Users\Felopater\Downloads\hospital_project\hospital_project\hospital_project\obj\Debug\hospital_project.csproj.CoreCompileInputs.cache
+C:\Users\Felopater\Downloads\hospital_project\hospital_project\hospital_project\obj\Debug\hospital_project.exe
+C:\Users\Felopater\Downloads\hospital_project\hospital_project\hospital_project\obj\Debug\hospital_project.pdb
+C:\Users\Felopater\Downloads\hospital_project\hospital_project\hospital_project\obj\Debug\hospital_project.user_data_personal.resources
+C:\Users\Felopater\Downloads\hospital_project\hospital_project\hospital_project\obj\Debug\hospital_project.User_Data_recording.resources
+C:\Users\Felopater\Downloads\hospital_project\hospital_project\hospital_project\obj\Debug\hospital_project.user_Rusulet.resources
+C:\Users\Felopater\Downloads\hospital_project\hospital_project\hospital_project\obj\Debug\hospital_project.User_Analystics.resources
+C:\Users\Felopater\Downloads\hospital_project\hospital_project\hospital_project\obj\Debug\hospital_project.User_cleander.resources
+C:\Users\Felopater\Downloads\hospital_project\hospital_project\hospital_project\obj\Debug\hospital_project.User_setting.resources
+C:\Users\Felopater\Downloads\hospital_project\hospital_project\hospital_project\obj\Debug\hospital_project.User_Data_Pharmacy.resources
+C:\Users\Felopater\Downloads\hospital_project\hospital_project\hospital_project\obj\Debug\hospital_project.User_home.resources
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\hospital\hospital_project\hospital_project\bin\Debug\hospital_project.exe.config
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\hospital\hospital_project\hospital_project\bin\Debug\hospital_project.exe
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\hospital\hospital_project\hospital_project\bin\Debug\hospital_project.pdb
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\hospital\hospital_project\hospital_project\obj\Debug\hospital_project.csproj.AssemblyReference.cache
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\hospital\hospital_project\hospital_project\obj\Debug\hospital_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\hospital\hospital_project\hospital_project\obj\Debug\hospital_project.BMI.resources
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\hospital\hospital_project\hospital_project\obj\Debug\hospital_project.Home.resources
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\hospital\hospital_project\hospital_project\obj\Debug\hospital_project.Properties.Resources.resources
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\hospital\hospital_project\hospital_project\obj\Debug\hospital_project.Start.resources
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\hospital\hospital_project\hospital_project\obj\Debug\hospital_project.User_Analystics.resources
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\hospital\hospital_project\hospital_project\obj\Debug\hospital_project.User_cleander.resources
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\hospital\hospital_project\hospital_project\obj\Debug\hospital_project.user_data_personal.resources
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\hospital\hospital_project\hospital_project\obj\Debug\hospital_project.User_Data_Pharmacy.resources
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\hospital\hospital_project\hospital_project\obj\Debug\hospital_project.User_home.resources
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\hospital\hospital_project\hospital_project\obj\Debug\hospital_project.user_Rusulet.resources
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\hospital\hospital_project\hospital_project\obj\Debug\hospital_project.User_setting.resources
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\hospital\hospital_project\hospital_project\obj\Debug\hospital_project.csproj.GenerateResource.cache
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\hospital\hospital_project\hospital_project\obj\Debug\hospital_project.csproj.CoreCompileInputs.cache
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\hospital\hospital_project\hospital_project\obj\Debug\hospital_project.exe
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\hospital\hospital_project\hospital_project\obj\Debug\hospital_project.pdb
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\hospital\hospital_project\hospital_project\bin\Debug\zxing.dll
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\hospital\hospital_project\hospital_project\bin\Debug\zxing.pdb
+C:\Users\Felopater\OneDrive - fa-hists.edu.eg\Desktop\hospital\hospital_project\hospital_project\obj\Debug\hospital_project.csproj.CopyComplete
+D:\try a project\hospital\hospital_project\hospital_project\obj\Debug\hospital_project.csproj.AssemblyReference.cache
+D:\try a project\hospital\hospital_project\hospital_project\obj\Debug\hospital_project.csproj.SuggestedBindingRedirects.cache
+D:\try a project\hospital\hospital_project\hospital_project\obj\Debug\hospital_project.BMI.resources
+D:\try a project\hospital\hospital_project\hospital_project\obj\Debug\hospital_project.Home.resources
+D:\try a project\hospital\hospital_project\hospital_project\obj\Debug\hospital_project.Properties.Resources.resources
+D:\try a project\hospital\hospital_project\hospital_project\obj\Debug\hospital_project.Start.resources
+D:\try a project\hospital\hospital_project\hospital_project\obj\Debug\hospital_project.User_cleander.resources
+D:\try a project\hospital\hospital_project\hospital_project\obj\Debug\hospital_project.user_data_personal.resources
+D:\try a project\hospital\hospital_project\hospital_project\obj\Debug\hospital_project.User_home.resources
+D:\try a project\hospital\hospital_project\hospital_project\obj\Debug\hospital_project.user_Rusulet.resources
+D:\try a project\hospital\hospital_project\hospital_project\obj\Debug\hospital_project.csproj.GenerateResource.cache
+D:\try a project\hospital\hospital_project\hospital_project\obj\Debug\hospital_project.csproj.CoreCompileInputs.cache
+D:\try a project\hospital\hospital_project\hospital_project\obj\Debug\hospital_project.exe
+D:\try a project\hospital\hospital_project\hospital_project\obj\Debug\hospital_project.pdb
+D:\try a project\hospital\hospital_project\hospital_project\bin\Debug\hospital_project.exe.config
+D:\try a project\hospital\hospital_project\hospital_project\bin\Debug\hospital_project.exe
+D:\try a project\hospital\hospital_project\hospital_project\bin\Debug\hospital_project.pdb
+D:\try a project\hospital\hospital_project\hospital_project\bin\Debug\zxing.dll
+D:\try a project\hospital\hospital_project\hospital_project\bin\Debug\zxing.pdb
+D:\try a project\hospital\hospital_project\hospital_project\obj\Debug\hospital_project.csproj.CopyComplete
+D:\try a project\hospital\hospital_project\hospital_project\obj\Debug\hospital_project.User_doctor.resources
+D:\try a project\hospital\hospital_project\hospital_project\obj\Debug\hospital_project.User_pharmacy.resources
+D:\try a project\hospital\hospital_project\hospital_project\obj\Debug\hospital_project.user_setting.resources
+D:\try a project\hospital\hospital_project\hospital_project\obj\Debug\hospital_project.Analystic.resources
+D:\try a project\hospital\hospital_project\hospital_project\bin\Debug\Guna.UI2.dll
+D:\try a project\hospital\hospital_project\hospital_project\bin\Debug\hospital_project.exe.manifest
+D:\try a project\hospital\hospital_project\hospital_project\bin\Debug\hospital_project.application
+D:\try a project\hospital\hospital_project\hospital_project\obj\Debug\hospital_project.exe.manifest
+D:\try a project\hospital\hospital_project\hospital_project\obj\Debug\hospital_project.application
